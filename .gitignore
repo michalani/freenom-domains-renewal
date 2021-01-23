@@ -1,0 +1,4 @@
+config.ini
+venv/
+geckodriver.log
+geckodriver.exe
